@@ -2,10 +2,10 @@
 
 ### :computer: Social Media
 
-![Facebook](https://raw.githubusercontent.com/LucasGaldinno/LucasGaldinno/main/assets/facebook-square-brands.png)
-![Twitter](https://raw.githubusercontent.com/LucasGaldinno/LucasGaldinno/main/assets/twitter-brands.png)
-![Instagram](https://raw.githubusercontent.com/LucasGaldinno/LucasGaldinno/main/assets/instagram-brands.png)
-![LinkedIn](https://raw.githubusercontent.com/LucasGaldinno/LucasGaldinno/main/assets/linkedin-brands.png)
+[<img src="/assets/facebook-square-brands.png" width="40" target="_blank">](https://www.facebook.com/Lucas.Galdino.com.br)
+[<img src="/assets/twitter-brands.png" width="40" target="_blank">](https://twitter.com/LucaasGaldinno)
+[<img src="/assets/instagram-brands.png" width="40" target="_blank">](https://www.instagram.com/lucaagaldinno/)
+[<img src="/assets/linkedin-brands.png" width="40" target="_blank">]()
 
 ### :bar_chart: GitHub Stats
 
