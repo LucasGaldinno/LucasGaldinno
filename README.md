@@ -2,17 +2,22 @@
 
 <hr>
 
-<h3>Languagens:</h3>
+<h3 align="center">Languagens:</h3>
 
-![HTML5](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) ![CSS](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)    ![JS](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b) ![C#](https://camo.githubusercontent.com/dd433625a6e00049c26f08143705ff9e32d5da44f503f1be133664b11e37e34b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465) ![Python](https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+</p>
 
 
-### :computer: Social Media
 
-[<img src="/assets/facebook-square-brands.png" width="40">](https://www.facebook.com/Lucas.Galdino.com.br)
-[<img src="/assets/twitter-brands.png" width="40">](https://twitter.com/LucaasGaldinno)
-[<img src="/assets/instagram-brands.png" width="40">](https://www.instagram.com/lucaagaldinno/)
-[<img src="/assets/linkedin-brands.png" width="40">]()
+<h3 align="center">Social media</h3>
+
+<p align="center">
+<img src="/assets/facebook-square-brands.png" width="40" src="https://www.facebook.com/Lucas.Galdino.com.br">
+<img src="/assets/twitter-brands.png" width="40" src="https://twitter.com/LucaasGaldinno">
+<img src="/assets/instagram-brands.png" width="40" src="https://www.instagram.com/lucaagaldinno/">
+<img src="/assets/linkedin-brands.png" width="40"src="">
+</p>
 
 ### :bar_chart: GitHub Stats
 
