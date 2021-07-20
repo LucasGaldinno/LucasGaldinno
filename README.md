@@ -2,10 +2,10 @@
 
 ### :computer: Social Media
 
-- [Facebook]()
-- [Twitter]()
-- [Instagram]()
-- [LinkedIn]()
+![Facebook](https://raw.githubusercontent.com/LucasGaldinno/LucasGaldinno/main/assets/facebook-square-brands.png)
+![Twitter](https://raw.githubusercontent.com/LucasGaldinno/LucasGaldinno/main/assets/twitter-brands.png)
+![Instagram](https://raw.githubusercontent.com/LucasGaldinno/LucasGaldinno/main/assets/instagram-brands.png)
+![LinkedIn](https://raw.githubusercontent.com/LucasGaldinno/LucasGaldinno/main/assets/linkedin-brands.png)
 
 ### :bar_chart: GitHub Stats
 
