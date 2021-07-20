@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGaldinno)](https://github.com/LucasGaldinno/github-readme-stats)
+
 <!--
 **LucasGaldinno/LucasGaldinno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
