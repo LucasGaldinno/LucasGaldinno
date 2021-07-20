@@ -1,4 +1,4 @@
-### Hi, my name is Lucas Galdino, I'm a full stack developer, I recently started in the programming area, I have basic knowledge in some languages they are, C#, JavaScript and Python.
+### Hi, my name is Lucas Galdino, I'm a Back-End and Front-End developer, I recently started in the programming area, I have basic knowledge in some languages that are, C#, JavaScript and Python, I also have knowledge in markup language, HTML and XML and I have the basic knowledge in CSS cascading style sheet. 
 
 ### :computer: Social Media
 
