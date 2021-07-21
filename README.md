@@ -4,7 +4,7 @@
 
 <h3 align="center"> :computer: Social media</h3>
 
-<p align="center">
+<p align="center"><br>
 <img src="/assets/facebook-square-brands.png" width="40" src="https://www.facebook.com/Lucas.Galdino.com.br">
 <img src="/assets/twitter-brands.png" width="40" src="https://twitter.com/LucaasGaldinno">
 <img src="/assets/instagram-brands.png" width="40" src="https://www.instagram.com/lucaagaldinno/">
