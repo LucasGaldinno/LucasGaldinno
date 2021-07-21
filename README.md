@@ -1,5 +1,5 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/LucaasGaldinno?color=%234fffff&label=%40LucaasGaldinno&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/LucaasGaldinno)
-[![Instagram Badge](https://img.shields.io/badge/lucaasgaldinno--%2300EBEB?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaasgaldinno/)
+[![Instagram Badge](https://img.shields.io/badge/lucaasgaldinno--%2300EBEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucaasgaldinno/)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Facebook Badge](https://img.shields.io/badge/facebook--%2300EBEB?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lucas.Galdino.com.br)
 
