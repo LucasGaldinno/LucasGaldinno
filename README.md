@@ -9,6 +9,6 @@
 <h3 align="center">:bar_chart: GitHub Stats</h3><br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaldinno&layout=compact&theme=radical&github.com/anuraghazra/github-readme-stats"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=radical&github.com/LucasGaldinno/github-readme-stats">
-</p>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaldinno&layout=compact&theme=radical&github.com/anuraghazra/github-readme-stats"></p>
+
