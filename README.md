@@ -10,5 +10,5 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=radical&github.com/LucasGaldinno/github-readme-stats">
-<img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaldinno&layout=compact&theme=radical&github.com/anuraghazra/github-readme-stats"></p>
+<img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical&github.com/anuraghazra/github-readme-stats"></p>
 
