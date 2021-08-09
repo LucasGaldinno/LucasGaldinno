@@ -1,6 +1,6 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/LucaasGaldinno?color=%234fffff&label=%40LucaasGaldinno&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/LucaasGaldinno)
 [![Instagram Badge](https://img.shields.io/badge/lucaasgaldinno--%2300EBEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucaasgaldinno/)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-galdino-70665b207/)
 [![Facebook Badge](https://img.shields.io/badge/facebook--%2300EBEB?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lucas.Galdino.com.br)
 
 ### Hi, my name is Lucas Galdino, I'm a Back-End and Front-End developer, I recently started in the programming area, I have basic knowledge in some languages that are C#, JavaScript and Python. At the moment I have the basic knowledge, but I intend to become fluent and learn a lot more other languages.<br><br>
