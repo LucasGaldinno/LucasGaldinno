@@ -18,7 +18,7 @@
 <br />
 
 ## ⚙️ GitHub Analytics
-<hr />
+
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=tokyonight" />
 
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaldinno&layout=compact&theme=tokyonight" />
@@ -27,7 +27,7 @@
 <br /><br />
 
 ## 🛠️ Technologies I use in my day
-<hr />
+
 <div style="display: inline_block"><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,7 +45,6 @@
 </div><br /><br />
 
 ## 🚀 Project hosting 
-<hr />
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasGaldinno)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Lucas-Galdino)
@@ -54,7 +53,7 @@
 <br /><br />
 
 ## 📌 About Me
-<hr />
+
 I'm a systems development student, I've been working in the programming area for about 1 year, I work with both Back-end and Front-end, I've participated in several project developments, I like to follow from the beginning to the implementation of the application. My goal is to grow in the area and be a great Full Stack developer.
 <br /><br />
 
