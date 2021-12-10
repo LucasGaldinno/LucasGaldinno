@@ -7,6 +7,10 @@
 [![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaas.galdinno@gmail.com)
 <br />
 
+<div style="text-align: center">
+<img src="https://komarev.com/ghpvc/?username=LucasGaldinno&color=orange" />
+</div>
+
 - 🔥 Junior Developer
 
 - 👩‍💻 My portfolio 
@@ -56,9 +60,4 @@
 
 ## 📌 About Me
 
-I'm a systems development student, I've been working in the programming area for about 1 year, I work with both Back-end and Front-end, I've participated in several project developments, I like to follow from the beginning to the implementation of the application. My goal is to grow in the area and be a great Full Stack developer.
-<br /><br />
-
-<div style="text-align: center">
-<img src="https://komarev.com/ghpvc/?username=LucasGaldinno&color=green" />
-</div>
+**I'm a systems development student, I've been working in the programming area for about 1 year, I work with both Back-end and Front-end, I've participated in several project developments, I like to follow from the beginning to the implementation of the application. My goal is to grow in the area and be a great Full Stack developer.**
