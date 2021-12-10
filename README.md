@@ -60,4 +60,4 @@
 
 ## 📌 About Me
 
-**I'm a systems development student, I've been working in the programming area for about 1 year, I work with both Back-end and Front-end, I've participated in several project developments, I like to follow from the beginning to the implementation of the application. My goal is to grow in the area and be a great Full Stack developer.**
+### ***I'm a systems development student, I've been working in the programming area for about 1 year, I work with both Back-end and Front-end, I've participated in several project developments, I like to follow from the beginning to the implementation of the application. My goal is to grow in the area and be a great Full Stack developer.***
