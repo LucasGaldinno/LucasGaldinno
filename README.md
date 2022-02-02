@@ -7,9 +7,11 @@
 [![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaas.galdinno@gmail.com)
 <br />
 
-<div style="text-align: center">
 <img src="https://komarev.com/ghpvc/?username=LucasGaldinno&color=orange" />
-</div>
+
+## 📌 About Me
+
+### ***I'm a systems development student, I work with both Back-end and Front-end, I've participated in several project developments, I'm in the learning phase, I love studying new technologies and new languages that appear on the market, learning is never too much. My goal is to grow in the area and be a great Full Stack developer.***
 
 - 🔥 Junior Developer
 
@@ -23,14 +25,10 @@
 
 ## ⚙️ GitHub Analytics
 
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=tokyonight" />
-
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaldinno&layout=compact&theme=tokyonight" />
-
-<img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasGaldinno&layout=compact&theme=tokyonight">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=tokyonight" /> <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaldinno&layout=compact&theme=tokyonight" /> <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasGaldinno&layout=compact&theme=tokyonight">
 <br /><br />
 
-## 🛠️ Technologies I use in my day
+## 🛠️ Technologies I use in my day 
 
 <div style="display: inline_block"><br/>
 <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C-Sharp" width="40" height="40"/></a>
@@ -49,14 +47,3 @@
 <a href="https://sass-lang.com/documentation" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/></a>
 <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
 </div><br /><br />
-
-## 🚀 Project hosting 
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasGaldinno)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Lucas-Galdino)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/LucaasGaldinno/)
-<br /><br />
-
-## 📌 About Me
-
-### ***I'm a systems development student, I've been working in the programming area for about 1 year, I work with both Back-end and Front-end, I've participated in several project developments, I like to follow from the beginning to the implementation of the application. My goal is to grow in the area and be a great Full Stack developer.***
