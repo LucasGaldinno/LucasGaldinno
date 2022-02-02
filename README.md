@@ -23,11 +23,6 @@
 
 <br />
 
-## ⚙️ GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaldinno&layout=compact&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasGaldinno&layout=compact&theme=tokyonight">
-<br /><br />
-
 ## 🛠️ Technologies I use in my day 
 
 <div style="display: inline_block"><br/>
@@ -47,3 +42,9 @@
 <a href="https://sass-lang.com/documentation" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/></a>
 <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
 </div><br /><br />
+
+## ⚙️ GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=tokyonight" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaldinno&layout=compact&theme=tokyonight" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasGaldinno&layout=compact&theme=tokyonight">
+<br /><br />
