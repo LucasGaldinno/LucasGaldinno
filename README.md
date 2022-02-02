@@ -9,7 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=LucasGaldinno&color=orange" />
 
-## 📌 About Me
+<h2 align="center">📌 About Me</h2>
 
 ### ***I'm a systems development student, I work with both Back-end and Front-end, I've participated in several project developments, I'm in the learning phase, I love to study learning new technologies and new programming languages are always important. My goal is to grow in the area and be a great Full Stack developer.***
 
@@ -23,8 +23,9 @@
 
 <br />
 
-## 🛠️ Technologies I use in my day 
+<h2 align="center">🛠️ Technologies I use in my day</h2>
 
+<div align="center">
 <div style="display: inline_block"><br/>
 <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C-Sharp" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
@@ -41,9 +42,11 @@
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://sass-lang.com/documentation" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/></a>
 <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
-</div><br /><br />
+</div>
+</div>
+<br /><br />
 
-<h4 align="center">⚙️ GitHub Analytics</h4>
+<h2 align="center">⚙️ GitHub Analytics</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=tokyonight" />
