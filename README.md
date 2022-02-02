@@ -43,9 +43,7 @@
 <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
 </div><br /><br />
 
-<div align="center">
-  ## ⚙️ GitHub Analytics
-</div>
+<h4 align="center">⚙️ GitHub Analytics</h4>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=tokyonight" />
