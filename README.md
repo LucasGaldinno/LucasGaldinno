@@ -45,6 +45,9 @@
 
 ## ⚙️ GitHub Analytics
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=tokyonight" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaldinno&layout=compact&theme=tokyonight" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasGaldinno&layout=compact&theme=tokyonight">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=tokyonight" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaldinno&layout=compact&theme=tokyonight" /> 
+  <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasGaldinno&layout=compact&theme=tokyonight">
+</div>
 <br /><br />
