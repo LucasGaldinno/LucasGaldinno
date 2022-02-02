@@ -11,7 +11,7 @@
 
 ## 📌 About Me
 
-### ***I'm a systems development student, I work with both Back-end and Front-end, I've participated in several project developments, I'm in the learning phase, I love studying new technologies and new languages that appear on the market, learning is never too much. My goal is to grow in the area and be a great Full Stack developer.***
+### ***I'm a systems development student, I work with both Back-end and Front-end, I've participated in several project developments, I'm in the learning phase, I love to study learning new technologies and new programming languages are always important. My goal is to grow in the area and be a great Full Stack developer.***
 
 - 🔥 Junior Developer
 
@@ -45,6 +45,6 @@
 
 ## ⚙️ GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=tokyonight" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaldinno&layout=compact&theme=tokyonight" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=LucasGaldinno&show_icons=true&theme=tokyonight" /><img height="197rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaldinno&layout=compact&theme=tokyonight" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasGaldinno&layout=compact&theme=tokyonight">
 <br /><br />
