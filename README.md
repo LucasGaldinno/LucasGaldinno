@@ -9,10 +9,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=LucasGaldinno&color=orange" />
 
-<h2 align="center">📌 About Me</h2>
-
-### ***I'm a systems development student, I work with both Back-end and Front-end, I've participated in several project developments, I'm in the learning phase, I love to study learning new technologies and new programming languages are always important. My goal is to grow in the area and be a great Full Stack developer.***
-
 - 🔥 Junior Developer
 
 - 👩‍💻 My portfolio 
