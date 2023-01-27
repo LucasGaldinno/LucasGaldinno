@@ -1,3 +1,5 @@
+<a href="lucaas.galdinno@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a> 
+<a href="https://www.linkedin.com/in/lucaas-galdinno/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 ##  Olá, eu sou Lucas Galdino!👋
 
 <p>Eu sou um Desenvolvedor de Software JR, sou apaixonado por tecnologias, busco sempre está estudando e aprimorando minhas habilidades como dev, e sempre viso me manter atualizado para o mercado de trabalho.
