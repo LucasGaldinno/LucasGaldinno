@@ -4,8 +4,8 @@
  
 ##  Hey, I'm Lucas Galdino!👋
 
-<p>Eu sou um Desenvolvedor de Software JR, busco sempre está estudando e aprimorando minhas habilidades como dev, e sempre viso me manter atualizado para o mercado de trabalho.
+<p>I am a JR Software Developer, I am always studying and improving my skills as a developer, and I always aim to keep myself updated for the job market.
 
-Atualmente estou fazendo a faculdade de Sistemas de Informação e a tecnologia mais utilizada lá é o Java, pois proporciona um aprendizado amplo sobre a programação orientada a objeto, e estou usando como aprendizado os banco de dados MySQL e SQL Server, para as aplicações exigidas pelo nosso instrutor. 
+I'm currently studying Information Systems at college and the most used technology there is Java, as it provides ample learning about object-oriented programming, and I'm using the MySQL and SQL Server databases as learning, for the specifications required by the our instructor.
 
-<i>"Não deixe o barulho da opinião dos outros abafar sua voz interior. E mais importante, tenha a coragem de seguir seu coração e sua intuição. Eles de alguma forma já sabem o que você realmente quer se tornar. Tudo o mais é secundário." - Steve Jobs.<i>
+<i>"Don't let the noise of others' opinions drown out your inner voice. And most importantly, have the courage to follow your heart and intuition. They somehow already know what you really want to become. Everything else is secondary". -Steve Jobs.<i>
