@@ -6,6 +6,6 @@
 
 <p>I am a JR Software Developer, I am always studying and improving my skills as a developer, and I always aim to keep myself updated for the job market.
 
-I'm currently studying Information Systems at college and the most used technology there is Java, as it provides ample learning about object-oriented programming, and I'm using the MySQL and SQL Server databases as learning, for the specifications required by the our instructor.
+I'm currently studying Information Systems at college and the programming language I use the most is Java as it provides a broad overview about object-oriented programming. Also, I usually use MySQL and SQL Server databases, for the projects required by the our instructor.
 
 <i>"Don't let the noise of others' opinions drown out your inner voice. And most importantly, have the courage to follow your heart and intuition. They somehow already know what you really want to become. Everything else is secondary". -Steve Jobs.<i>
